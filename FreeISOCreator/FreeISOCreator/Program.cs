@@ -19,6 +19,7 @@ namespace FreeISOCreator
         {
                 cmdverstion cmdverstion = new cmdverstion();
                 cmdverstion.CmdVersion(args[0], args[1], args[2]);
+                //test
            
 
             }
