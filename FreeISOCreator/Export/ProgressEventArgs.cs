@@ -27,6 +27,7 @@ namespace Export
       this.m_action = action;
       this.m_current = current;
       this.m_maximum = maximum;
+      Console.Write(action);
     }
 
     public int Current
